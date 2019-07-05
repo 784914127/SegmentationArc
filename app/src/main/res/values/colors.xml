@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dy_weight_bg">#EBEBEB</color>
+    <color name="black1">#b4b4b4</color>
+    <color name="main_top_color1">#19B4FF</color>
+    <color name="main_top_color2">#00cda0</color>
+    <color name="main_top_color3">#ffc600</color>
+    <color name="main_top_color4">#ff485f</color>
+</resources>
